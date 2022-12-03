@@ -113,7 +113,9 @@
             </div>
         </div>
     </section>
-    <section class="mt-8 bg-white">
+
+    {{-- Activate to get specials menu on front page, you need a 'Specials' category created in admin panel --}}
+    {{-- <section class="mt-8 bg-white">
         <div class="mt-4 text-center">
             <h3 class="text-2xl font-bold">Our Menu</h3>
             <h2 class="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500">
@@ -136,7 +138,8 @@
                 @endforeach
             </div>
         </div>
-    </section>
+    </section> --}}
+    
     <section class="pt-4 pb-12 bg-gray-800">
         <div class="my-16 text-center">
             <h2 class="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500">
