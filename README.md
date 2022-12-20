@@ -2,4 +2,4 @@
 
 Restaurant site made with laravel 9
 
-To get a specials menu on front page, you need a 'Specials' category created in admin panel. Then uncomment section in resources/views/welcome.blade.php
+To get a specials menu on front page, you need a 'Specials' category created in admin panel. Then uncomment section "Specials menu" in resources/views/welcome.blade.php

@@ -114,6 +114,7 @@
         </div>
     </section>
 
+                        {{-- Specials menu --}}
     {{-- Activate to get specials menu on front page, you need a 'Specials' category created in admin panel --}}
     {{-- <section class="mt-8 bg-white">
         <div class="mt-4 text-center">
